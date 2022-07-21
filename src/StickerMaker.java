@@ -9,8 +9,8 @@ import java.awt.Font;
 
 import javax.imageio.ImageIO;
 
-public class StickersGenerator {
-    public void cria(InputStream inputStream, String outputPath, String[] message) throws IOException {
+public class StickerMaker {
+    public void make(InputStream inputStream, String outputPath, String[] message) throws IOException {
         var image = ImageIO.read(inputStream);
         var width = 640;
         var height = 480;
