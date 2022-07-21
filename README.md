@@ -1,18 +1,7 @@
-## Getting Started
+## Projeto da imersão java da alura
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Programa Java que consulta imagens em APIs públicas e constrói stickers com as mesmas.
 
-## Folder Structure
+## Exemplo de sticker gerado
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![Andromeda-over-the-Sahara-Desert.png](https://i.postimg.cc/Zq2mV3Fz/Andromeda-over-the-Sahara-Desert.png)](https://postimg.cc/1gGbz8jv)
